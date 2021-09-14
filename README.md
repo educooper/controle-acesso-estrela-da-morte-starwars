@@ -1,6 +1,6 @@
 <h1 align="center">Controle de Acesso da Estrela da Morte  - STARWARS</h1>
 <p align="center">
-<img src="https://github.com/educooper/app-contas-bancarias/raw/main/nave.png" alt="Pseudo logo do pseudo APP" />
+<img src="https://github.com/educooper/app-contas-bancarias/raw/main/nave.png" alt="nave" />
   </p>
 
 <p align="center">
