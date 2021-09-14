@@ -28,7 +28,7 @@
 
 ## :dart: About / Sobre ##
 
-Aplicação de Curso sobre modelagem de Banco de dados baseado em SQL Server com tema Star Wars almejando a um controle de acesso REST de pilotos para naves com pesquisa e relacionamentos com base nos dados de [SWAPI - The Star Wars API](https://swapi.dev/) -  
+Aplicação de Curso sobre modelagem de Banco de dados baseado em SQL Server com tema Star Wars almejando a um controle de acesso REST de pilotos para naves com pesquisa e relacionamentos com base nos dados de [SWAPI - The Star Wars API](https://swapi.dev/) - Adicionado tabelas e relacionamentos sobre filmes.
 
 ## :rocket: Technologies / Tecnologias ##
 
@@ -47,7 +47,7 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 
 ```bash
 # Clone este projeto
-$ git clone https://github.com/educooper/dio-contas-bancarias
+$ git clone https://github.com/educooper/controle-acesso-estrela-da-morte-starwars
 
 # Acesse
 $ cd dio-contas-bancarias
