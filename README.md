@@ -50,7 +50,7 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 $ git clone https://github.com/educooper/controle-acesso-estrela-da-morte-starwars
 
 # Acesse
-$ cd dio-contas-bancarias
+$ cd controle-acesso-estrela-da-morte-starwars
 
 # Execute o projeto
 $ dotnet run
